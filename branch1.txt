@@ -1,4 +1,5 @@
 for branch
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,8 @@ Erhoir322;oeipo23
 
 
 Eoiroi2r2
+=======
+ 
+
+Always try
+>>>>>>> main

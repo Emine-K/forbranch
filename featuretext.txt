@@ -1,4 +1,10 @@
 feature branch
 
+<<<<<<< HEAD
 
 This is a my first branch
+=======
+Dfhsjfwejfiowe
+Ncdhfoiwefw
+Nfwehofwe;
+>>>>>>> main
